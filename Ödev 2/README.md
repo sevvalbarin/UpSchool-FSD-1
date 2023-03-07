@@ -8,11 +8,11 @@ https://user-images.githubusercontent.com/92356404/223487383-a518457b-9111-4d6b-
 
 ## The codes I added to our main project:
 
-`<div class="card-body">`
-    `<div class="row">`
-         `<div class="col-md-8">`
-          `    <p>@password</p>`
-         `</div>`
+<div class="card-body">
+    <div class="row">
+         <div class="col-md-8">
+              <p>@password</p>
+         </div>
          @if(PasswordMemento.Count > 1)
          {
             <div class="col-md-1">
@@ -35,18 +35,17 @@ https://user-images.githubusercontent.com/92356404/223487383-a518457b-9111-4d6b-
                   <span @onclick=@GeneratePassword class="oi oi-loop-circular clickable" aria-hidden="true"></span>
               </div>
       </div>
-</div>`
+</div>
                         
-`      
+      
     Stack<string> PasswordMemento = new Stack<string>();
-
 
     private void UndoPasswordMemento()
     {
         PasswordMemento.Pop();
         password = PasswordMemento.Peek();
     }
-                  `
+            
 ### I added the following line of code to the GeneratePassword, CheckBoxOnChange and OnInputChange methods.      
  ` PasswordMemento.Push(password); `
    
