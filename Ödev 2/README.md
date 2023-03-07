@@ -48,4 +48,7 @@ https://user-images.githubusercontent.com/92356404/223487383-a518457b-9111-4d6b-
             
 ### I added the following line of code to the GeneratePassword, CheckBoxOnChange and OnInputChange methods.      
  ` PasswordMemento.Push(password); `
+ 
+ 
+ #### not: kodlar düzgün görünmüyor düzelteceğim.
    
