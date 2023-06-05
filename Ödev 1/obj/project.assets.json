@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\UpSchool-TheBasics-master\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\UpSchool-TheBasics-master\\UpSchool-FullStack-Development-Bootcamp\\Ödev 1\\PasswordGenerator.csproj",
       "projectName": "PasswordGenerator",
-      "projectPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\UpSchool-TheBasics-master\\PasswordGenerator\\PasswordGenerator.csproj",
+      "projectPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\UpSchool-TheBasics-master\\UpSchool-FullStack-Development-Bootcamp\\Ödev 1\\PasswordGenerator.csproj",
       "packagesPath": "C:\\Users\\sevva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\UpSchool-TheBasics-master\\PasswordGenerator\\obj\\",
+      "outputPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\UpSchool-TheBasics-master\\UpSchool-FullStack-Development-Bootcamp\\Ödev 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sevva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
