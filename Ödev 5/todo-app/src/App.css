@@ -1,0 +1,47 @@
+.app-container {
+
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.icon{
+  color: black !important;
+}
+
+.add-todo-container {
+  margin-bottom: 20px;
+}
+
+.todo-list-container {
+  margin-bottom: 20px;
+}
+
+.sort-buttons-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+
+.todo-list-container {
+  margin-top: 20px;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.todo-item .checkbox {
+  margin-right: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
