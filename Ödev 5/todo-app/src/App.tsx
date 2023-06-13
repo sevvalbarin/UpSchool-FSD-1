@@ -1,6 +1,7 @@
 import React, { useState } from "react";
-import { Icon, Button, Form, Input, List, Segment } from "semantic-ui-react";
+import { Icon, Button, Form, Input, List, Segment, Card } from "semantic-ui-react";
 import "./App.css";
+import 'semantic-ui-css/semantic.min.css';
 
 interface Todo {
   id: number;
@@ -50,8 +51,16 @@ function App() {
 
   return (
     <>
-      <div className="app-container">
-        <h1>Todos</h1>
+      <Segment>
+        <Card>
+        <div className="app-container">
+        <Card.Header
+              basic
+              className={`center aligned ui huge font-custom`}
+              style={{ margin: 0 }}
+            >
+              My ToDo App
+            </Card.Header>
 
         <div className="add-todo-container">
           <Form onSubmit={handleAddTodo}>
@@ -88,9 +97,12 @@ function App() {
                    CSS kısmını ayarlayamadığım için bunu eklediğimde notlar ile çok yapışık durdu.
                       
                    */}
-                      <Button  
-                      key={todo.id}
-                      onClick={() => handleDeleteTodo(todo.id)}>🗑️</Button>
+                    <Icon
+                      name="trash alternate"
+                      size="big"
+                      color="black"
+                      onClick={() => handleDeleteTodo(todo.id)}
+                    />
                     </List.Description>
                   </div>
                 </List.Content>
@@ -107,13 +119,7 @@ function App() {
           </Button>
         </div>
       </div>
-      <Segment>
-        <Icon
-          name="trash alternate"
-          size="big"
-          color="black"
-          //onClick={() => handleDeleteTodo(todo.id)}
-        />
+        </Card>
       </Segment>
     </>
   );
