@@ -59,7 +59,7 @@ function App() {
               className={`center aligned ui huge font-custom`}
               style={{ margin: 0 }}
             >
-              My ToDo App
+              ToDo App
             </Card.Header>
 
         <div className="add-todo-container">
