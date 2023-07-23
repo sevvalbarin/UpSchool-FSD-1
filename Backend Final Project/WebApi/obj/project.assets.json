@@ -1634,19 +1634,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sevva\\.nuget\\packages\\": {}
+    "C:\\Users\\sevva\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\sevva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\WebApi\\obj\\",
+      "outputPath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\sevva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1654,17 +1659,19 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\Application\\Application.csproj"
+            "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\Application\\Application.csproj": {
+              "projectPath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\Application\\Application.csproj"
             },
-            "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\Domain\\Domain.csproj"
+            "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1721,7 +1728,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v308ihooLWnDLzhknYE0YJ43abmAJX+QZFtpo86ostEkWsPUIARK50Q6Sb8iD+k7pQZvXLb3DxNIXwCy9CteUQ==",
+  "dgSpecHash": "nIffkg20SUN1pzd1ij5KrgJLg1ePCE6IXCj3mr+nh+Z0SqIzgHSxhdM0vqimxDrBTVP52AZ7TIMeF2r8EKTyjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sevva\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sevva\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",

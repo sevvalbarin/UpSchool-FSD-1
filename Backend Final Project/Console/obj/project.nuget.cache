@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "et7dEgW8xb3oTQJs9UATtYosAfuJpN0UymSCt/4w7QxqWdToHpjSW/4kchKYDRg5jbbYVYgknig7ZcwJRRO6Wg==",
+  "dgSpecHash": "YYS9AEzCNd3KZwt0f4cEYLH/cgU7XkXAIun86wu+QHPkdeC1G/bBlfgBnJZBLVk3yVgy9YK13tkY/hGAVwB40g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\Console\\Console.csproj",
+  "projectFilePath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\Console\\Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sevva\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\sevva\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

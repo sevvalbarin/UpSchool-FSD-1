@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pN+oyAtmOl0KIzFxdMqrsVVcDZbLbcMWlc4XB5m5r+ugf0fQXQszNUByrd89G3+eWwgmd3bguQuy2n5d0UKUgw==",
+  "dgSpecHash": "TreuQwr725W3F340QPYksOabcvFINeWCoQZBCbwdG/rMVxYb+EPYZia6QaX/khRIehmh10aBf6ERGqHkkkCveg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sevva\\OneDrive\\Masaüstü\\Projeler\\BackendFinalProject\\BackendFinalProject\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\UpSchool-FullStack-Development-Bootcamp\\Backend Final Project\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sevva\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sevva\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
